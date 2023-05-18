@@ -2,7 +2,7 @@
 
 This is a little challenge project created to abstract the contents I learned from the Kotlin course at **DIO**.
 
-##### Readme from the source project (in portuguese)
+##### Readme from the source project (in portuguese):
 
 ### Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
 
